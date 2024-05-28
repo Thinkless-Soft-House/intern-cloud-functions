@@ -1,0 +1,19 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "repo to Thinkless Cloud Functions to isolated actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinkless-Soft-House/intern-cloud-functions.git"
+  },
+  "author": "Caio Domingos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thinkless-Soft-House/intern-cloud-functions/issues"
+  },
+  "homepage": "https://github.com/Thinkless-Soft-House/intern-cloud-functions#readme"
+}
